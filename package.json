@@ -1,0 +1,27 @@
+{
+  "name": "web-app-basics-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlenaZ-nia/web-app-basics-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlenaZ-nia/web-app-basics-lesson/issues"
+  },
+  "homepage": "https://github.com/OlenaZ-nia/web-app-basics-lesson#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
